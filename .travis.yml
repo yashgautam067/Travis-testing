@@ -6,4 +6,4 @@ script:
       echo "$i seconds completed";
       sleep 1;
     done
-  - echo "🎉 1 Hour completed. Timer ended"
+  - echo "🎉 1 Hour completed successfully. Timer ended"
